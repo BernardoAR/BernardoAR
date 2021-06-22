@@ -34,13 +34,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAR&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### Last activities
-
-<!--START_SECTION:activity-->
-
-## <!--END_SECTION:activity-->
-
 [instagram]: https://instagram.com/bernalvesroballo
 [linkedin]: https://linkedin.com/in/bernardoroballo
