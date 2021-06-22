@@ -38,10 +38,9 @@
 
 ### Last activities
 
----
-
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+## <!--END_SECTION:activity-->
 
 [instagram]: https://instagram.com/bernalvesroballo
 [linkedin]: https://linkedin.com/in/bernardoroballo
