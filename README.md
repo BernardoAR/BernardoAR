@@ -3,7 +3,7 @@
 ## I'm a developer and Information System undergraduated
 
 - 💻 I'm currently working on SGTxai at São Borja - Brazil;
-- 📚 I'm currently learning Docker and VueJS;
+- 📚 I'm currently learning Docker, VueJS and getting better with Regex;
 - 🕐 I'm looking to be more active on Github, and working on new projects;
 
 ### Connect with me:
