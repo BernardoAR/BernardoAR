@@ -1,6 +1,6 @@
 ### Hello! I'm Bernardo 👋
 
-## I'm a developer and Information System undergraduated
+## I'm a developer and I have a degree on Information System
 
 - 💻 I'm currently working on SGTxai at São Borja - Brazil;
 - 📚 I'm currently learning Docker, VueJS and getting better with Regex;
