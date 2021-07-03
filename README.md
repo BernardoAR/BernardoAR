@@ -2,8 +2,7 @@
 
 ## I'm a developer and I have a degree on Information System
 
-- 💻 I'm currently working on SGTxai at São Borja - Brazil;
-- 📚 I'm currently learning Docker, VueJS and getting better with Regex;
+- 📚 I'm currently learning Docker, React, VueJS and getting better with Regex;
 - 🕐 I'm looking to be more active on Github, and working on new projects;
 
 ### Connect with me:
