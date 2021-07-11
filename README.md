@@ -1,8 +1,8 @@
 ### Hello! I'm Bernardo 👋
 
-## I'm a developer and I have a degree on Information System
+## I'm a developer
 
-- 📚 I'm currently learning Docker, React, VueJS and getting better with Regex;
+- 📚 I'm currently learning Docker, React, NextJS and getting better with CSS;
 - 🕐 I'm looking to be more active on Github, and working on new projects;
 
 ### Connect with me:
