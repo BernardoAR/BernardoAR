@@ -1,9 +1,9 @@
 ### Hello! I'm Bernardo 👋
 
-## I'm a developer
+## I'm a software developer and here is my personal portfolio
 
-- 📚 I'm currently learning Docker, React, NextJS and getting better with CSS;
-- 🕐 I'm looking to be more active on Github, and working on new projects;
+- 📚 I'm currently learning NextJS;
+- 🕐 I'm looking to be more active on Github, and working on new projects sonn!;
 
 ### Connect with me:
 
@@ -33,5 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAR&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[instagram]: https://instagram.com/bernalvesroballo
 [linkedin]: https://linkedin.com/in/bernardoroballo
